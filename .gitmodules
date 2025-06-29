@@ -1,0 +1,6 @@
+[submodule "NQve-back"]
+	path = NQve-back
+	url = https://github.com/JeongInGeol/NQve-back.git
+[submodule "NQve-front-react"]
+	path = NQve-front-react
+	url = https://github.com/JeongInGeol/NQve-front-react.git
